@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+	console.log("ready");
 	$('.boton-flecha').click(function(){
 		$('body, html').animate({
 			scrollTop: '0px'
