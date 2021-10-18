@@ -1,4 +1,3 @@
-var $ = 0;
 $(document).ready(function(){
 
 	$('.boton-flecha').click(function(){
